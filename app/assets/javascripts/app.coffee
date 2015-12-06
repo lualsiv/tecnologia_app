@@ -1,0 +1,1 @@
+tecnologys_app = angular.module('tecnologys_app',[])
